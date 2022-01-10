@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eric-ito
+- 👀 I’m interested in Data science
+- Computer Engineering graduate
+- Master in Bioinformatics
